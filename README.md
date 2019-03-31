@@ -1,5 +1,3 @@
-# Mizuxe #
-### This is a website for promoting a book ###
 # Project - Mizuxe #
 [Mizuxe](https://psyhedeliq.github.io/mizuxe/)  
 This is a website for promoting a book.
